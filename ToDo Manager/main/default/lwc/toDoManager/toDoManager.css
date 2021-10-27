@@ -1,0 +1,29 @@
+.time {
+  font-size: 4rem;
+  font-weight: 600;
+}
+/**
+ * # rem is the adjusted accrdong to the Screen size.
+ * # Typically 1 rem = 16 pixels
+ * # 
+ */
+
+.greenting {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.userId {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.textArea1 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.container {
+  background-color: white;
+  padding: 16px;
+  max-height: 480px;
+  overflow-y: scroll;
+  display: block;
+}
